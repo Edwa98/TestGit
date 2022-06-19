@@ -14,7 +14,7 @@
 
     <ItemGroup>
         <BuildArtifactsDir Include="BuildArtifacts\test\"/>
-        <SolutionFile Include="IOConsole\IOConsole.sln" />
+        <SolutionFile Include="Console_TestCI\Console_TestCI.sln" />
     </ItemGroup>
 
     <Target Name="Initt" DependsOnTargets="Cleann">
