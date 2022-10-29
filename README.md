@@ -1,3 +1,2 @@
-# NetCore
-WebApi学习
-http://vscode.dev/
+# TestGit
+这是一个空的仓库
